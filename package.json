@@ -1,0 +1,9 @@
+{
+  "name": "ampremmium",
+  "version": "1.0.0",
+  "description": "Verifikasi Link dengan backend proxy (tanpa CORS)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
